@@ -1,5 +1,5 @@
 # Face-Reconization-Attendace-System
-This is a project for creating a face recognition-based attendance system. The system utilizes computer vision and machine learning techniques to recognize faces and mark attendance.
+The project creating a face recognition-based attendance system. The system utilizes computer vision and machine learning techniques to recognize faces and mark attendance.
 Face recognition attendance system used back-end python, oracle
 ## Features
 
